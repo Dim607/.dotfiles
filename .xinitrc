@@ -3,6 +3,9 @@
 # kill existing instances of dwmblocks
 pkill -x dwmblocks 2>/dev/null
 
+# enable numlock
+numlockx &
+
 # set wallpaper
 feh --bg-center "$HOME/Pictures/wallpapers/portal-aperture-science-dual-monitor-wallpaper.jpg" &
 
