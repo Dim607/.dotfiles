@@ -7,7 +7,8 @@ pkill -x dwmblocks 2>/dev/null
 numlockx &
 
 # set wallpaper
-feh --bg-center "$HOME/Pictures/wallpapers/portal-aperture-science-dual-monitor-wallpaper.jpg" &
+# feh --bg-center "$HOME/Pictures/wallpapers/portal-aperture-science-dual-monitor-wallpaper.jpg" &
+feh --bg-scale "$HOME/Pictures/wallpapers/pexels-brett-sayles-992734.jpg" &
 
 # start compositor
 picom &
