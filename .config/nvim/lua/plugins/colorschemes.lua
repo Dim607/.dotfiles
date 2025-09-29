@@ -25,6 +25,7 @@ return {
     lazy = false,
     -- priority = 1000, -- only needed if laze = true
     name = "catppuccin",
+    flavor = "macchiato",
     opts = {
       lsp_styles = {
         underlines = {
