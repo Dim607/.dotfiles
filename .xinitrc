@@ -8,7 +8,8 @@ numlockx &
 
 # set wallpaper
 # feh --bg-center "$HOME/Pictures/wallpapers/portal-aperture-science-dual-monitor-wallpaper.jpg" &
-feh --bg-scale "$HOME/Pictures/wallpapers/pexels-brett-sayles-992734.jpg" &
+# feh --bg-scale "$HOME/Pictures/wallpapers/pexels-brett-sayles-992734.jpg" &
+feh --bg-fill ~/Pictures/wallpapers/4417587268416908060c791048b541358365d208.jpeg
 
 # start compositor
 picom &
