@@ -112,6 +112,11 @@ alias sn="sudo nvim"
 alias sd="sudo docker"
 alias ta="tmux attach"
 alias tk="tmux kill-session"
+alias ff="fastfetch"
+alias e="exit"
+alias ss="systemctl suspend"
+alias re="reboot"
+alias po="poweroff"
 # use main monitor
 alias mmon="xrandr --output HDMI-1 --off --output eDP-1 --auto 2>&1"
 # use only secondary monitor
