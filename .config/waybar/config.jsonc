@@ -288,10 +288,15 @@
     "hyprland/workspaces": {
       "format": "{name}",
       "on-click": "activate",
-      // "persistent-workspaces": {
+      "persistent-workspaces": {
       // "*": 5, // show 10 workspaces on all monitors
-      // // "<monitor_name>": workspace number // to specify a specific number of workspaces for a monitor
-      //  },
+      // "<monitor_name>": workspace number // to specify a specific number of workspaces for a monitor
+      "6":"",
+      "7":"",
+      "8":"",
+      "9":"",
+      "10":"",
+       },
       "sort-by-number": true
     },
   }
